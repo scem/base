@@ -1,4 +1,4 @@
 # Hallo
 hallo
 
-#include ../doc/README.md
+{{../doc/README.md}}
